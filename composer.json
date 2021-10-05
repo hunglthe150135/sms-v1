@@ -1,0 +1,18 @@
+{
+    "name": "ehc/sms-v1",
+    "autoload": {
+        "psr-4": {
+            "Ehc\\SmsV1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hunglthe150135",
+            "email": "hunglthe150135@fpt.edu.vn"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
